@@ -6,7 +6,10 @@ const data = require('../songs.json')
 
 class App extends Component {
   state = {
-    songs: []
+    songs: [
+      {}
+    ],
+    current: {}
   };
 
   componentDidMount() {
@@ -24,10 +27,15 @@ class App extends Component {
     //     })
     //   }).catch(err => console.log(err));
     const songs = data.items.map(item => {
-      return item.contentDetails.videoId
+      return {
+        title: item.snippet.title,
+        id: item.contentDetails.videoId
+      };
     });
+
     this.setState({
       songs,
+      current: songs[Math.floor(Math.random() * songs.length)]
     })
   }
 
@@ -35,13 +43,14 @@ class App extends Component {
     return (
       <div>
         <header className="Header">
-          <img src={require("../logo.png")} className="Header__Img"/>
-        </header>
-      <div className='Container'>
-        <iframe title="video" id='Video'
-        src={`https://www.youtube.com/embed/${this.state.songs[Math.floor(Math.random() * this.state.songs.length)]}?autoplay=1&controls=1&loop=1&rel=0&showinfo=0&autohide=1&wmode=transparent&hd=1`}>
-        </iframe>
-      </div>
+        </header>          
+        <h2 id="Song-title">{this.state.current.title}</h2>
+        <img src={require("../logo.png")} className="Header__Img"/>
+        <div className='Container'>
+          <iframe title="video" id='Video'
+          src={`https://www.youtube.com/embed/${this.state.current.id}?autoplay=1&controls=1&loop=1&rel=0&showinfo=0&autohide=1&wmode=transparent&hd=1`}>
+          </iframe>
+        </div>
         <footer className="Footer">
           <div className="Social">
             <a href='https://www.facebook.com/Tubular-Music-2094381257512633/'><img src={require('../fb.png')} id="fb"/></a>

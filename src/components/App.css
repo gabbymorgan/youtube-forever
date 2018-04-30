@@ -20,11 +20,12 @@
 }
 
 .Header__Img {
-  width: 9%;
-  position: fixed;
-  top: 0;
+  opacity: .4;
+  width: 10%;
+  position: absolute;
   right: 0;
-  margin: -.9rem 45% 0 0;
+  top: 0;
+  margin: 3rem 1% 0 0;
 }
 
 .Footer {
@@ -59,4 +60,11 @@
 #ig {
   height: 1.7rem;
   margin: .49rem 0 0 1.2px;
+}
+
+#Song-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: .5%
 }
