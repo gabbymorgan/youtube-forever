@@ -1,7 +1,36 @@
 import React, { Component } from 'react';
 import './App.css';
+// import axios from 'axios';
+const data = require('../songs.json')
+
 
 class App extends Component {
+  state = {
+    songs: []
+  };
+
+  componentDidMount() {
+    // axios
+    //   .get('/youtube/v3/playlistItems', {
+    //     'maxResults': '50',
+    //     'part': 'snippet,contentDetails',
+    //     'playlistId': 'PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr'
+    //   }).then(response => {
+    //     const songs = response.data.map(song => {
+    //       return song.resourseId.songId;
+    //     });
+    //     this.setState({
+    //       songs,
+    //     })
+    //   }).catch(err => console.log(err));
+    const songs = data.items.map(item => {
+      return item.contentDetails.videoId
+    });
+    this.setState({
+      songs,
+    })
+  }
+
   render() {
     return (
       <div>
@@ -10,7 +39,7 @@ class App extends Component {
         </header>
       <div className='Container'>
         <iframe title="video" id='Video'
-        src="https://www.youtube.com/embed/videoseries?list=PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr&autoplay=1&controls=0&loop=1&rel=0&showinfo=0&autohide=1&wmode=transparent&hd=1">
+        src={`https://www.youtube.com/embed/${this.state.songs[Math.floor(Math.random() * this.state.songs.length)]}?autoplay=1&controls=1&loop=1&rel=0&showinfo=0&autohide=1&wmode=transparent&hd=1`}>
         </iframe>
       </div>
         <footer className="Footer">

@@ -1,0 +1,2316 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/0GJpCV2sdJ_I2niEhK6m_wbCVZ0\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 67,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/bA1xjXrmP8dNz018u9fPr9bNGPk\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:23:43.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Toto - Africa (Video)",
+        "description": "Toto's official music video for 'Africa'. Click to listen to Toto on Spotify: http://smarturl.it/TotoSpotify?IQid=T...\n\nOfficial Stranger Things playlist: https://LegacyRecordings.lnk.to/ST_pl\n\nAs featured on The Essential Toto. Click to buy the track or album via iTunes: http://smarturl.it/EssentialToto?IQid...\nGoogle Play: http://smarturl.it/TAfricaGPlay?IQid=...\nAmazon: http://smarturl.it/ETotoAmazon?IQid=T...\n\nMore From Toto\nRosanna: https://youtu.be/qmOLtTGvsbM\nHold The Line: https://youtu.be/htgr3pvBr-I\nI'll Be Over You: https://youtu.be/r7XhWUDj-Ts\n\nMore great 80s videos here: http://smarturl.it/Ultimate80?IQid=To...\n\nFollow Toto\nWebsite: http://totoofficial.com/landing.php\nFacebook: https://www.facebook.com/totoband\nTwitter: https://twitter.com/toto99com\n\nSubscribe to Toto on YouTube: http://smarturl.it/TotoSub?IQid=TotoAFR\n\n---------\n\nLyrics:\n\nI hear the drums echoing tonight\nBut she hears only whispers of some quiet conversation\nShe's coming in twelve-thirty flight\nHer moonlit wings reflect the stars that guide me towards salvation\nI stopped an old man along the way\nHoping to find some old forgotten words or ancient melodies\nHe turned to me as if to say: Hurry boy, it's waiting there for you\n\nIt's gonna take a lot to drag me away from you\nThere's nothing that a hundred men or more could ever do\nI bless the rains down in Africa\nGonna take some time to do the things we never had\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FTQbiNvZqaY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FTQbiNvZqaY",
+        "videoPublishedAt": "2013-05-22T07:09:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/vMPs_tMJHnuGGWYCMmsxl7i20sw\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:24:33.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "a-ha - Take On Me (Official Video)",
+        "description": "Time and Again: The Ultimate a-ha, including the biggest hits + rare and unreleased remixes, is out now! Get your copy here: http://smarturl.it/ahatimeagaincd\n- - - -\nThe official video for a-ha \"Take On Me\". At the 1986 MTV Video Music Awards, the video for \"Take on Me\" won six awards—Best New Artist in a Video, Best Concept Video, Most Experimental Video, Best Direction, Best Special Effects, and Viewer's Choice—and was nominated for two others, Best Group Video and Video of the Year. It was also nominated for Favorite Pop/Rock Video at the 13th American Music Awards in 1986.\n\nShare this on Facebook:\nhttp://www.facebook.com/sharer/sharer...\n\nhttp://a-ha.com/ \nhttp://www.facebook.com/officialaha\nhttps://twitter.com/aha_com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/djV11Xbc914/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/djV11Xbc914/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "djV11Xbc914"
+        }
+      },
+      "contentDetails": {
+        "videoId": "djV11Xbc914",
+        "videoPublishedAt": "2010-01-06T17:58:29.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/NZkj_UQyk6BinYQjXqCGE1uVegE\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:24:42.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Eurythmics - Sweet Dreams (Are Made Of This) (Official Video)",
+        "description": "Eurythmics - Sweet Dreams (Are Made Of This)\nListen On Spotify: http://smarturl.it/EurythmicsGH_Spoti...\nBuy On iTunes: http://smarturl.it/EurythmicsGH_iTune...\nAmazon: http://smarturl.it/EurythmicsGH_Amazo...\n\nPreorder Eurythmics vinyl released throughout 2018 - http://smarturl.it/EU_Vinylamz  \nStream on Spotify -  http://smarturl.it/EU_RR_Spt \niTunes - http://smarturl.it/EUC_iT \nAmazon - http://smarturl.it/EUC_AM \n\nFollow Eurythmics \nWebsite - http://smarturl.it/EU_web \nFacebook - http://smarturl.it/EU_FB \nInstagram - http://smarturl.it/EU_IG\nTwitter - http://smarturl.it/EU_tw\n\n\nLyrics\nSweet dreams are made of this\nWho am I to disagree?\nI travel the world and the seven seas\nEverybody's looking for something\n\nSome of them want to use you\nSome of them want to get used by you\nSome of them want to abuse you\nSome of them want to be abused\n\nSweet dreams are made of this\nWho am I to disagree?\nI travel the world and the seven seas\nEverybody's looking for something\n\nHold your head up, keep your head up, movin' on\nHold your head up, movin' on, keep your head up, movin' on\nHold your head up, movin' on, keep your head up, movin' on\nHold your head up, movin' on, keep your head up\n\nSome of them want to use you\nSome of them want to get used by you\nSome of them want to abuse you\nSome of them want to be abused\n\nSweet dreams are made of this\nWho am I to disagree?\nI travel the world and the seven seas\nEverybody's looking for something\n\nSweet dreams are made of this\nWho am I to disagree?\nI travel the world and the seven seas\nEverybody's looking for something\n\nSweet dreams are made of this\nWho am I to disagree?\nI travel the world and the seven seas\nEverybody's looking for something\n\nSweet dreams are made of this\nWho am I to disagree?\nI travel the world and the seven seas\nEverybody's looking for something\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qeMFqkcPYcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qeMFqkcPYcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qeMFqkcPYcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qeMFqkcPYcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qeMFqkcPYcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qeMFqkcPYcg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qeMFqkcPYcg",
+        "videoPublishedAt": "2009-10-25T07:00:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/dMp85LM9ccmZrts4nZxcR69pPNA\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:02.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Wham! - Wake Me Up Before You Go-Go (Official Video)",
+        "description": "Wham!'s official music video for 'Wake Me Up Before You Go-Go'. Click to listen to Wham! on Spotify: http://smarturl.it/WhamSpotify?IQid=W...\n‘Listen without Prejudice/MTV Unplugged’ – OUT NOW. Listen on Spotify here http://smarturl.it/GMFreedomSpot and get the album here http://smarturl.it/LWPGM\nGet the Fantasy single here http://smarturl.it/GMFantasy\n \nMusic updates http://www.listen-georgemichael.com\nOfficial website http://www.georgemichael.com  \nFacebook https://www.facebook.com/georgemichael/\nTwitter https://twitter.com/GeorgeMOfficial\nInstagram https://www.instagram.com/georgemoffi...\n\nSubscribe to George Michael on YouTube: http://smarturl.it/GeorgeMsubscribe?I...\n\nLyrics:\n\nJitterbug [4X]\n\nYou put the boom-boom into my heart\nYou send my soul sky high when your lovin' starts\nJitterbug into my brain\nGoes a bang-bang-bang 'til my feet do the same\nBut something's bugging you\nSomething ain't right\nMy best friend told me what you did last night\nLeft me sleepin' in my bed\nI was dreaming, but I should have been with you instead.\n\nWake me up before you go-go \nDon't leave me hanging on like a yo-yo\nWake me up before you go-go\nI don't want to miss it when you hit that high\nWake me up before you go-go\n'Cause I'm not plannin' on going solo\nWake me up before you go-go\nTake me dancing tonight\nI wanna hit that high (yeah, yeah)\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pIgZ7gMze7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pIgZ7gMze7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pIgZ7gMze7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pIgZ7gMze7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pIgZ7gMze7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pIgZ7gMze7A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pIgZ7gMze7A",
+        "videoPublishedAt": "2009-10-25T06:52:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/P9aKITrZqBFikYqDr5S8fgz3QMk\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:10.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Michael Jackson - Beat It (Official Video)",
+        "description": "Music video by Michael Jackson performing Beat It. © 1982 MJJ Productions Inc.\n\nFollow Michael Jackson\nWebsite: https://michaeljackson.com\nFacebook: https://www.facebook.com/michaeljackson\nTwitter: https://twitter.com/michaeljackson\nInstagram: https://www.instagram.com/michaeljackson\n\nListen to Michael Jackson\niTunes: https://itunes.apple.com/us/artist/michael-jackson/id32940\nSpotify: https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oRdxUFDoQe0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oRdxUFDoQe0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oRdxUFDoQe0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oRdxUFDoQe0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oRdxUFDoQe0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oRdxUFDoQe0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oRdxUFDoQe0",
+        "videoPublishedAt": "2011-04-11T10:13:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/5m78NOl22z3QINVD1At4J2_9nCY\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:21.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Bon Jovi - Livin' On A Prayer",
+        "description": "Music video by Bon Jovi performing Livin' On A Prayer. (C) 1986 The Island Def Jam Music Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lDK9QqIzhwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lDK9QqIzhwk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lDK9QqIzhwk",
+        "videoPublishedAt": "2009-06-17T00:35:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/MS--X5qUnUY9_ZtsI5vU4u05zZo\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:26.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Duran Duran - Hungry Like The Wolf",
+        "description": "Music video by Duran Duran performing Hungry Like The Wolf (2003 Digital Remaster).",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOg5VxrRTi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOg5VxrRTi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOg5VxrRTi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oOg5VxrRTi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oOg5VxrRTi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oOg5VxrRTi0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oOg5VxrRTi0",
+        "videoPublishedAt": "2009-02-26T18:53:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/QSlHTqeM6Au8ouiskzH8D53r_cM\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:35.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Robert Palmer - Addicted To Love",
+        "description": "Best of RobertPalmer: https://goo.gl/c3RiXd\nSubscribe here: https://goo.gl/Y51u7o\n\n\nMusic video by Robert Palmer performing Addicted To Love. (C) 1985 The Island Def Jam Music Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XcATvu5f9vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XcATvu5f9vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XcATvu5f9vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XcATvu5f9vE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XcATvu5f9vE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XcATvu5f9vE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XcATvu5f9vE",
+        "videoPublishedAt": "2009-12-25T07:54:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/dQ0PQPSCEETVSkDvv7CsHi1a9t8\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:41.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Phil Collins - In The Air Tonight (Official Music Video)",
+        "description": "The \"In The Air Tonight\" video has just hit 100 million views! Thanks to all of Phil's fans who have watched this iconic video over the years, the YouTube channel is now fully updated and re-branded so click here http://smarturl.it/PhilCollinsYouTube for more.\n\n“In The Air Tonight” was the first single to be released from Phil Collins’ album \"Face Value\", released in 1981.\n\nBuy Phil's autobiography \"Not Dead Yet\" and The Singles: a collection of all 45 of Phil Collins’ hit singles here: http://philcollins.com\n\nDownload “In The Air Tonight”  here now\nAmazon http://smarturl.it/PhilCollinsAmazon\niTunes http://smarturl.it/PhilCollinsiTunes2\n\nSubscribe here for more Phil Collins http://smarturl.it/PhilCollinsYouTube\n\nStay up-to-date with Phil Collins\nSubscribe http://smarturl.it/PhilCollinsYouTube \nLike http://smarturl.it/PhilCollinsFacebook \nFollow http://smarturl.it/PhilCollinsTwitter\nListen http://smarturl.it/PhilCollinsSpotify\nFollow http://smarturl.it/PhilCollinsGPlus\nOfficial website http://philcollins.co.uk\n\n__\n\nThe official YouTube channel for the solo work of English singer-songwriter, drummer, and producer, Mr. Phil Collins.\n\nAs a solo artist he has sold more than 100 million records, won 7 Grammys, 6 Brit awards, and an Oscar.\n\nSubscribe for promo clips, live videos, interviews, and more.\n\n(c) Philip Collins Limited",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YkADj0TPrJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YkADj0TPrJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YkADj0TPrJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YkADj0TPrJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YkADj0TPrJA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YkADj0TPrJA",
+        "videoPublishedAt": "2010-05-11T10:00:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/BL4nhmEX9yYIyiyoC7Iig5pwCyg\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:47.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "The Police - Every Breath You Take",
+        "description": "Listen to more from The Police: https://ThePolice.lnk.to/Essentials\nDiscover more about this track here: http://playlists.udiscovermusic.com/playlist/the-police-best-of\n\nListen to The Police playlists here: http://playlists.udiscovermusic.com/playlist/the-police-best-of\n\nDiscover more about this track and what made it one of the defining pop singles of the 1980s: \nhttp://www.udiscovermusic.com/stories/the-police-and-americas-favourite-hit-of-1983 \n\nExperience The Police on Half Speed Mastered Vinyl LP: https://lnk.to/CfAvq\n\nMusic video by The Police performing Every Breath You Take (Black and White Version). (C) 1983 A&M Records Ltd.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMOGaugKpzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMOGaugKpzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMOGaugKpzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OMOGaugKpzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OMOGaugKpzs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OMOGaugKpzs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OMOGaugKpzs",
+        "videoPublishedAt": "2010-02-23T15:22:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/n7YxWW1tAt8uhS6FM3WjR7Uj-Qc\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:53.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Men Without Hats - Safety Dance (Official Music Video)",
+        "description": "Check out our website for more Unidisc content: http://geni.us/BnsAGB\nShop for Vinyls, CDs, Merch and More: http://geni.us/UAcik\n\nBuy/Stream • http://geni.us/ThUo9\nFacebook • http://geni.us/unidiscfacebook\nSoundCloud • http://geni.us/unidiscsoundcloud\nShop • http://geni.us/unidiscshop\nTwitter • http://geni.us/unidisctwitter\nInstagram • http://geni.us/unidiscinstagram\nYouTube • http://geni.us/unidiscyoutube\n\n© Unidisc Music\n\n\nThe new wave synth pop collective Men Without Hats were formed in 1980 by brothers Ivan and Stefan Doroschuk. Ivan was the leader of the group, writing the majority of the songs and providing the lead vocals; Stefan was the guitarist; and other members changed frequently throughout the course of the group's career. They independently released their debut EP, Folk of the '80s, in 1980; it was reissued the following year by Stiff in Britain. During 1982, the band consisted of Ivan, Stefan, another brother Colin Doroschuk (keyboards), along with drummer Allan McCarthy; this is the lineup that recorded Men Without Hats' 1982 debut album, Rhythm of Youth. Taken from their debut, the single \"The Safety Dance\" became a major hit, peaking on the American charts at number three in 1983. Driven by an insistent three-chord synthesizer riff, the song was one of the biggest synth pop hits of the new wave era. The group wasn't able to exploit its success, however. Folk of the '80s (Part III) stalled at number 127 on the charts in America and made even less of an impact in other parts of the world. Thanks to the minor-hit title track, 1987's Pop Goes the World was a bigger success, yet it didn't recapture the audience their first album had gained. Released two years later, The Adventures of Women & Men Without Hate in the 21st Century failed to chart, as did its follow-up, 1991's Sideways. The two albums' lack of success effectively put an end to Men Without Hats' career.\nHot Tub Time Machine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AjPau5QYtYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AjPau5QYtYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AjPau5QYtYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AjPau5QYtYs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AjPau5QYtYs",
+        "videoPublishedAt": "2010-04-16T21:26:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/3PH1aiKlKu_7qKqzWi15ZEnVyDE\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:25:59.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "George Michael - Careless Whisper (Official Video)",
+        "description": "George Michael - Careless Whisper (Official Video)\n‘Listen without Prejudice/MTV Unplugged’ – OUT NOW. Listen on Spotify here http://smarturl.it/GMFreedomSpot and get the album here http://smarturl.it/LWPGM\nGet the Fantasy single here http://smarturl.it/GMFantasy\n \nMusic updates http://www.listen-georgemichael.com\nOfficial website http://www.georgemichael.com  \nFacebook https://www.facebook.com/georgemichael/\nTwitter https://twitter.com/GeorgeMOfficial\nInstagram https://www.instagram.com/georgemofficial/\n\nSubscribe to George Michael on YouTube: http://smarturl.it/GeorgeMsubscribe?I...\n\n\nLyrics\nI feel so unsure\nAs I take your hand\nAnd lead you to the dance floor\nAs the music dies\nSomething in your eyes\nCalls to mind a silver screen\nAnd all its sad goodbyes\n\nI'm never gonna dance again\nGuilty feet have got no rhythm\nThough it's easy to pretend\nI know you're not a fool\nI should've known better than to cheat a friend\nAnd waste the chance that I've been given\nSo I'm never gonna dance again\nThe way I danced with you\n\nTime can never mend\nThe careless whispers of a good friend\nTo the heart and mind\nIgnorance is kind\nThere's no comfort in the truth\nPain is all you'll find\n\nI'm never gonna dance again\nGuilty feet have got no rhythm\nThough it's easy to pretend\nI know you're not a fool\nI should've known better than to cheat a friend\nAnd waste the chance that I've been given\nSo I'm never gonna dance again\nThe way I danced with you\n\nTonight the music seems so loud\nI wish that we could lose this crowd\nMaybe it's better this way\nWe'd hurt each other with the things we want to say\nWe could have been so good together\nWe could have lived this dance forever\nBut now who's gonna dance with me\nPlease stay\n\nI'm never gonna dance again\nGuilty feet have got no rhythm\nThough it's easy to pretend\nI know you're not a fool\nI should've known better than to cheat a friend\nAnd waste the chance that I've been given\nSo I'm never gonna dance again\nThe way I danced with you\n\nNow that you're gone\nNow that you're gone\nNow that you're gone\nWas what I did so wrong\nSo wrong that you had to leave me alone?\nBest of George Michael: https://goo.gl/sUJ5KR\nSubscribe here: https://goo.gl/P6NyAj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "izGwDsrQ1eQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "izGwDsrQ1eQ",
+        "videoPublishedAt": "2009-10-25T21:05:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/Q6scetbSmnuoXxNSNzyuU1AV4Cc\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:06.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Survivor - Eye Of The Tiger",
+        "description": "Survivor's official music video for 'Eye Of The Tiger'. Click to listen to Survivor on Spotify: http://smarturl.it/SurvSpot?IQid=Surv...\n\nAs featured on Ultimate Survivor. Click to buy the track or album via iTunes: http://smarturl.it/UltSurviTunes?IQid...\nGoogle Play: http://smarturl.it/SurvEOTTplay?IQid=...\nAmazon: http://smarturl.it/UltSurvAmz?IQid=Su...\n\nMore from Survivor\nBurning Heart: https://youtu.be/Kc71KZG87X4\nI Can't Hold Back: https://youtu.be/GaMcsKtBDwE\nThe Search IsOver: https://youtu.be/xELTfJ-ZVBc\n\nMore great classic rock videos here: http://smarturl.it/ClassicRocks?IQid=...\n\nFollow Survivor\nWebsite: http://survivorband.com/\nFacebook: https://www.facebook.com/survivortheband\nTwitter: https://twitter.com/survivorband\n\nSubscribe to Survivor on YouTube: http://smarturl.it/SurvSub?IQid=SurvEOTT\n\n---------\n\nLyrics:\n\nRising up, back on the street\nDid my time, took my chances\nWent the distance, now I'm back on my feet\nJust a man and his will to survive\n\nSo many times it happens too fast\nYou trade your passion for glory\nDon't lose your grip on the dreams of the past\nYou must fight just to keep them alive\n\nIt's the eye of the tiger\nIt's the thrill of the fight\nRising up to the challenge of our rival\nAnd the last known survivor\nStalks his prey in the night\nAnd he's watching us all with the eye of the tiger\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/btPJPFnesV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/btPJPFnesV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/btPJPFnesV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/btPJPFnesV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/btPJPFnesV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "btPJPFnesV4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "btPJPFnesV4",
+        "videoPublishedAt": "2009-11-14T13:05:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/sIBnYO7RTCAo0RiLLiHXDjGmaRk\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:14.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Rockwell - Somebody's Watching Me",
+        "description": "Music video by Rockwell performing Somebody's Watching Me. (C) 2004 Motown Records, a Division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7YvAYIJSSZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7YvAYIJSSZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7YvAYIJSSZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7YvAYIJSSZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7YvAYIJSSZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7YvAYIJSSZY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7YvAYIJSSZY",
+        "videoPublishedAt": "2009-10-08T06:29:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/KiCI8WAxPqSpPZCXl8alyOGoD0Q\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:20.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "David Bowie - Let's Dance",
+        "description": "Music video by David Bowie performing Let's Dance. Taken from the album 'Heroes'\n\nBuy the David Bowie back catalogue on iTunes here: http://smarturl.it/bowieitunes\nListen to this track on Spotify: http://smarturl.it/02k89p\nBuy the album on Amazon: http://smarturl.it/b3aa0u",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N4d7Wp9kKjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N4d7Wp9kKjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N4d7Wp9kKjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N4d7Wp9kKjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N4d7Wp9kKjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N4d7Wp9kKjA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "N4d7Wp9kKjA",
+        "videoPublishedAt": "2009-03-06T15:01:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/TWDwD5bhanBHnpXtef2L7ulMjbI\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:27.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "U2 - With Or Without You",
+        "description": "For more information check out www.u2.com  \n \nListen to U2 on Apple Music:  http://po.st/U2AppleMusic\nListen to U2 Complete on Spotify: http://po.st/U2Complete\n\nU2’s new album, “Songs of Experience” out now. Listen to the album: https://lnk.to/ZaQRe \n\nExplore more music from U2: https://lnk.to/oVysR \n\nFollow U2: http://www.u2.com/ \nFacebook: https://U2.lnk.to/FBID \nTwitter: https://U2.lnk.to/TWID \nInstagram: https://U2.lnk.to/ISID \n  \n(C) 1987 Universal-Island Records Ltd.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XmSdTa9kaiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XmSdTa9kaiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XmSdTa9kaiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XmSdTa9kaiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XmSdTa9kaiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XmSdTa9kaiQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XmSdTa9kaiQ",
+        "videoPublishedAt": "2009-10-05T21:03:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/zM12nDCk-7j4IpHjD-QPWCgu7Dk\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:33.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Men At Work - Down Under (Video)",
+        "description": "Men At Work's official music video for 'Down Under'. Click to listen to Men At Work on Spotify: http://smarturl.it/MenAtWorkSpotify?I...\n\nAs featured on Contraband: The Best of Men At Work. Click to buy the track or album via iTunes: http://smarturl.it/MAWContraband?IQid...\nGoogle Play: http://smarturl.it/MAWDUGPlay?IQid=Me...\nAmazon: http://smarturl.it/MAWContrabandAmazo...\n\nMore From Men At Work\nWho Can It Be Now: https://youtu.be/SECVGN4Bsgg\nOverkill: https://youtu.be/RY7S6EgSlCI\nIt's A Mistake: https://youtu.be/I0AxrOUJ62E\n\nMore great 80s videos here: http://smarturl.it/Ultimate80?IQid=Me...\n\nSubscribe to Men At Work on YouTube: http://smarturl.it/MenAtWorkSub?IQid=...\n\n---------\n\nLyrics: \n\nTravelling in a fried-out Kombi\nOn a hippie trail, head full of zombie\nI met a strange lady, she made me nervous\nShe took me in and gave me breakfast\nAnd she said:\n\nDo you come from a land down under\nWhere women glow and men plunder\nCan't you hear, can't you hear the thunder\nYou better run, you better take cover.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XfR9iY5y94s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XfR9iY5y94s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XfR9iY5y94s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XfR9iY5y94s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XfR9iY5y94s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XfR9iY5y94s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XfR9iY5y94s",
+        "videoPublishedAt": "2013-02-07T18:46:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/RuaW0OX7k2pIZynUJLyqo98WalM\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:40.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Simple Minds - Don't You (Forget About Me)",
+        "description": "Listen to more Simple Minds\nhttps://SimpleMinds.lnk.to/Essentials\n\nAcoustic – 12 songs reimagined acoustically  - out now on CD/Vinyl/Stream/Download – featuring Don’t You (Forget About Me), Promised You A Miracle FT KT Tunstall, American and many more. https://SimpleMindsInl.lnk.to/AcousticID \n\nListen to the complete playlist on Spotify here: https://SimpleMindsInl.lnk.to/ListenID \n\nSign up for news http://po.st/SMNewsLetter\n\nFollow Simple Minds online:\n\nhttp://po.st/SMwebsite \nhttp://po.st/SMFacebook \nhttp://po.st/SMTwitter \nhttp://po.st/SMYoutube\nhttp://po.st/SMgoogleplus\nhttp://po.st/SMTumblr\n\nMusic video by Simple Minds performing Don't You (Forget About Me). (P) (C) 2010 Virgin Records America, Inc.. All rights reserved. Unauthorized reproduction is a violation of applicable laws.  Manufactured by Virgin Records America, Inc., Capitol Records, LLC, 150 Fifth Avenue, New York, NY 10011.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CdqoNKCCt7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CdqoNKCCt7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CdqoNKCCt7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CdqoNKCCt7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CdqoNKCCt7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CdqoNKCCt7A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CdqoNKCCt7A",
+        "videoPublishedAt": "2010-12-03T20:32:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/bbjgD4YVMw1XUnMbIolVhUwoG3M\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:46.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Heart - Alone",
+        "description": "Music video by Heart performing Alone.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Cw1ng75KP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Cw1ng75KP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Cw1ng75KP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Cw1ng75KP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Cw1ng75KP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Cw1ng75KP0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1Cw1ng75KP0",
+        "videoPublishedAt": "2010-04-02T04:41:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/5D-HGbbOvWy0zAzrcgCDgPuojxg\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:26:54.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Tears For Fears - \"Everybody Wants To Rule The World\" - ORIGINAL VIDEO",
+        "description": "FIND ME AT https://twitter.com/DoryStentorian  Popularised by the \"Live Aid\" spin-off, \"Sport Aid\" - this is the original version. For more, hit https://corneliusatloppers.wordpress.com/2016/07/15/cornelius-on-british-prime-ministers-an-absolute-shower/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ST86JM1RPl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ST86JM1RPl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ST86JM1RPl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ST86JM1RPl0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ST86JM1RPl0",
+        "videoPublishedAt": "2010-10-19T16:05:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/few4nSO2kb-oeKnVqZZ_UpgGn5E\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:02.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Europe - The Final Countdown (Official Video)",
+        "description": "Europe's official music video for 'The Final Countdown'. Click to listen to Europe on Spotify: http://smarturl.it/EuropeSpot?IQid=EuropeTFC\n\nAs featured on 1982-1992. Click to buy the track or album via iTunes: http://smarturl.it/Europe1982iTunes?IQid=EuropeTFC\nGoogle Play: http://smarturl.it/EuropeTFCplay?IQid=EuropeTFC\nAmazon: http://smarturl.it/Europe1982Amz?IQid=EuropeTFC\n\nMore from Europe\nCarrie: https://youtu.be/KmWE9UBFwtY\nOpen Your Heart: https://youtu.be/qX4LC1HBmag\nRock The Night: https://youtu.be/ELtpTBf-pMU\n\nMore great classic rock videos here: http://smarturl.it/ClassicRocks?IQid=EuropeTFC\n\nFollow Europe\nWebsite: http://www.europetheband.com/\nFacebook: https://www.facebook.com/europetheband\nTwitter: https://twitter.com/europetheband\nMyspace: http://myspace.com/europe/\n\nSubscribe to Europe on YouTube: http://smarturl.it/EuropeSub?IQid=EuropeTFC\n\n---------\n\nLyrics:\n\n(ten, nine, eight, seven, six, five, four, three, two, one)\n\nWe're leaving together,\nBut still it's farewell.\nAnd maybe we'll come back\nTo earth, who can tell?\nI guess there is no one to blame\nWe're leaving ground (leaving ground)\nWill things ever be the same again?\n\nIt's the final countdown.\nThe final countdown",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9jK-NcRmVcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9jK-NcRmVcw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "9jK-NcRmVcw",
+        "videoPublishedAt": "2009-10-25T20:18:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/Cx_Q0SiUzB9DLTz-ctqL5C_h3Ew\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:10.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Rick Astley - Never Gonna Give You Up (Video)",
+        "description": "Rick Astley - Never Gonna Give You Up (Official Music Video) - Listen On Spotify: http://smarturl.it/AstleySpotify\nDownload Rick's Number 1 album \"\"50\"\" -  https://BMG.lnk.to/RickAstley50NG/itunes\n\nBuy On iTunes: http://smarturl.it/AstleyGHiTunes\nAmazon: http://smarturl.it/AstleyGHAmazon\n\nFollow Rick Astley\nWebsite: http://www.rickastley.co.uk/\nTwitter: https://twitter.com/rickastley\nFacebook: https://www.facebook.com/RickAstley/\nInstagram:  https://www.instagram.com/officialric...\n\n\nLyrics\n\nWe're no strangers to love\nYou know the rules and so do I\nA full commitment's what I'm thinking of\nYou wouldn't get this from any other guy\n\nI just wanna tell you how I'm feeling\nGotta make you understand\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nWe've known each other for so long\nYour heart's been aching, but\nYou're too shy to say it\nInside, we both know what's been going on\nWe know the game and we're gonna play it\n\nAnd if you ask me how I'm feeling\nDon't tell me you're too blind to see\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\n(Ooh, give you up)\n(Ooh, give you up)\nNever gonna give, never gonna give\n(Give you up)\nNever gonna give, never gonna give\n(Give you up)\n\nWe've known each other for so long\nYour heart's been aching, but\nYou're too shy to say it\nInside, we both know what's been going on\nWe know the game and we're gonna play it\n\nI just wanna tell you how I'm feeling\nGotta make you understand\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dQw4w9WgXcQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dQw4w9WgXcQ",
+        "videoPublishedAt": "2009-10-25T06:57:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/IjEs2H1A8jMa2kUqcwqHwVIf2Ok\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:16.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Starship - We Built This City",
+        "description": "Starship's official music video for 'We Built This City'. Click to listen to Starship on Spotify: http://smarturl.it/StarshipSpotify?IQ...\n\nAs featured on Hits. Click to buy the track or album via iTunes: http://smarturl.it/StarshipHits?IQid=...\nGoogle Play: http://smarturl.it/WBTCGPlay?IQid=Sta...\nAmazon: http://smarturl.it/SHitsAmazon?IQid=S...\n\nMore from Starship\nNothing's Gonna Stop Us Now: https://youtu.be/Sp1dfoTV_z4\nFind Your Way Back: https://youtu.be/Dj4gqJzlIvc\nIt's Not Enough: https://youtu.be/zSZnq5ZbP1w\n\nMore great 80s videos here: http://smarturl.it/Ultimate80?IQid=St...\n\nFollow Starship\nWebsite: http://www.starshipcontrol.com/\nFacebook: https://www.facebook.com/starshipcontrol\nTwitter: https://twitter.com/starshipcontrol\n\nSubscribe to Starship on YouTube: http://smarturl.it/StarshipSub?IQid=S...\n\n---------\n\nLyrics:\n\nWe built this city\nWe built this city on rock and roll\nBuilt this city\nWe built this city on rock and roll\n\nSay you don't know me or recognize my face\nSay you don't care who goes to that kind of place\nKnee deep in the hoopla, sinking in your fight\nToo many runaways eating up the night\n\nMarconi plays the mambo, listen to the radio\nDon't you remember?\nWe built this city\nWe built this city on rock and roll\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K1b8AhIsSYQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "K1b8AhIsSYQ",
+        "videoPublishedAt": "2013-02-06T19:20:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/udhlyM6oXU2JFF8i25pJAAa89lQ\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:22.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Men At Work - Who Can It Be Now? (Video Version)",
+        "description": "Men At Work's official music video for 'Who Can It Be Now'. Click to listen to Men At Work on Spotify: http://smarturl.it/MenAtWorkSpotify?I...\n\nAs featured on Contraband: The Best of Men At Work. Click to buy the track or album via iTunes: http://smarturl.it/MAWContraband?IQid...\nGoogle Play: http://smarturl.it/WCIBNGPlay?IQid=Me...\nAmazon: http://smarturl.it/MAWContrabandAmazo...\n\nMore From Men At Work\nDown Under: https://youtu.be/XfR9iY5y94s\nOverkill: https://youtu.be/RY7S6EgSlCI\nIt's A Mistake: https://youtu.be/I0AxrOUJ62E\n\nMore great 80s videos here: http://smarturl.it/Ultimate80?IQid=Me...\n\nSubscribe to Men At Work on YouTube: http://smarturl.it/MenAtWorkSub?IQid=...\n\n---------\n\nLyrics: \n\nWho can it be knockingat my door?\nGo away, don't come 'round here no more\nCan't you see that it's late at night?\nI'm very tired and I'm not feeling right\nAll I wish is to be alone\nStay away, don't you invade my home\nBest off if you hang outside\nDon't come in, I'll only run and hide\n\nWho can it be now?\nWho can it be now?\nWho can it be now?\nWho can it be now?\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SECVGN4Bsgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SECVGN4Bsgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SECVGN4Bsgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SECVGN4Bsgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SECVGN4Bsgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SECVGN4Bsgg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SECVGN4Bsgg",
+        "videoPublishedAt": "2013-02-05T20:11:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/uJVjLwrb01T2h1CRGLrCRdEZRtw\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:33.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Modern English - I Melt With You (Official Video)",
+        "description": "Subscribe to 4AD here: http://bit.ly/4ADYouTube\nJoin the 4AD mailing list here: http://smarturl.it/4ADMailingList\n\nThe official video for 'I Melt With You'.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LuN6gs0AJls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LuN6gs0AJls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LuN6gs0AJls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LuN6gs0AJls"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LuN6gs0AJls",
+        "videoPublishedAt": "2009-03-11T13:50:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/irOIXxlrR7xLGjeQm9x0e0Hzmh4\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:39.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Daryl Hall & John Oates - Maneater",
+        "description": "Daryl Hall & John Oates' official music video for 'Maneater'. Click to listen to Daryl Hall & John Oates on Spotify: http://smarturl.it/DHJOSpotify?IQid=D...\n\nAs featured on The Very Best of Daryl Hall & John Oates. Click to buy the track or album via iTunes: http://smarturl.it/TVBDHJO?IQid=DarylHME\nGoogle Play: http://smarturl.it/ManeaterGPlay?IQid...\nAmazon: http://smarturl.it/TVBHOAmazon?IQid=D...\n\nMore From Daryl Hall & John Oates\nI Can't Go For That (No Can Do): https://youtu.be/ccenFp_3kq8\nDon't Hold Back Your Love: https://youtu.be/owiSNj3Zd7A\nSo Close: https://youtu.be/8rMkMDFjK8U\n\nMore great 80s videos here: http://smarturl.it/Ultimate80?IQid=Da...\n\nFollow Daryl Hall & John Oates\nWebsite: http://www.hallandoates.com/\nFacebook: https://www.facebook.com/hallandoates\nTwitter: https://twitter.com/halloates\n\nSubscribe to Daryl Hall & John Oates on YouTube: http://smarturl.it/HallOatesSub?IQid=...\n\n---------\n\nLyrics:\n\nShe'll only come out at nights\nThe lean and hungry type\nNothing is new\nI've seen her here before\nWatching and waiting\nOoh, she's sittin' with you\nBut her eyes are on the door\n\nSo many have paid to see\nWhat you think\nYou're gettin' for free\nThe woman is wild\nA she-cat tamed\nBy the purr of a Jaguar\nMoney's the matter\nIf you're in it for love\nYou ain't gonna get too far\n\n(Oh-oh, here she comes)\nWatch out boy\nShe'll chew you up\n(Oh-oh, here she comes)\nShe's a maneater\n(Oh-oh, here she comes)\nWatch out boy\nShe'll chew you up\n(Oh-oh, here she comes)\nShe's a maneater\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yRYFKcMa_Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yRYFKcMa_Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yRYFKcMa_Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yRYFKcMa_Ek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yRYFKcMa_Ek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yRYFKcMa_Ek"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yRYFKcMa_Ek",
+        "videoPublishedAt": "2009-10-03T20:48:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/r3vcYw4_OZqomkxHBxg_L0Z6kvc\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:45.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Van Halen - Jump",
+        "description": "Brought to you by Van Halen's Official You Tube Channel: Van Halen TV.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SwYN7mTi6HM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SwYN7mTi6HM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SwYN7mTi6HM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SwYN7mTi6HM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SwYN7mTi6HM",
+        "videoPublishedAt": "2009-10-02T12:05:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/FbZ_x5-7V0bwJuUbAcmJ7IRNfGk\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:27:57.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "DeBarge - Rhythm Of The Night",
+        "description": "Music video by DeBarge performing Rhythm Of The Night. (C) 1985 Motown Records, a Division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cAQSZhazYk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cAQSZhazYk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cAQSZhazYk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cAQSZhazYk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cAQSZhazYk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cAQSZhazYk8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cAQSZhazYk8",
+        "videoPublishedAt": "2009-06-17T05:23:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/PWB_k8lbxtnTt91jXGxktcAyRE4\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:28:02.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Footloose - Kenny Loggins",
+        "description": "Kenny LogginsのFootlooseのＰＶを再編集しました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFWDGTVYqE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFWDGTVYqE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFWDGTVYqE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wFWDGTVYqE8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wFWDGTVYqE8",
+        "videoPublishedAt": "2010-01-21T16:15:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/DHufwC0dWKRAAlhj_du0X7WLgnA\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:28:19.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Queen - Bohemian Rhapsody (Official Video)",
+        "description": "Subscribe to the official Queen channel Here http://bit.ly/Subscribe2Queen\n\nTaken from A Night At The Opera, 1975.\n\nQueen - 'Bohemian Rhapsody'\n\nClick here to buy the DVD with this video at the Official Queen Store:\nhttp://www.queenonlinestore.com\n\nThe official 'Bohemian Rhapsody' music video. Taken from Queen - 'Greatest Video Hits 1'. Please favourite/like and subscribe! Lyrics below:\n\nIs this the real life?\nIs this just fantasy?\nCaught in a landslide\nNo escape from reality\nOpen your eyes\nLook up to the skies and see\nI'm just a poor boy, I need no sympathy\nBecause I'm easy come, easy go\nA little high, little low\nAnyway the wind blows, doesn't really matter to me, to me\n\nMama, just killed a man\nPut a gun against his head\nPulled my trigger, now he's dead\nMama, life had just begun\nBut now I've gone and thrown it all away\nMama, ooo\nDidn't mean to make you cry\nIf I'm not back again this time tomorrow\nCarry on, carry on, as if nothing really matters\n\nToo late, my time has come\nSends shivers down my spine\nBody's aching all the time\nGoodbye everybody - I've got to go\nGotta leave you all behind and face the truth\nMama, ooo - (anyway the wind blows)\nI don't want to die\nI sometimes wish I'd never been born at all\n\nI see a little silhouetto of a man\nScaramouch, scaramouch will you do the fandango\nThunderbolt and lightning - very very frightening me\nGallileo, Gallileo,\nGallileo, Gallileo,\nGallileo Figaro - magnifico\n\nBut I'm just a poor boy and nobody loves me\nHe's just a poor boy from a poor family\nSpare him his life from this monstrosity\nEasy come easy go - will you let me go\nBismillah! No - we will not let you go - let him go\nBismillah! We will not let you go - let him go\nBismillah! We will not let you go - let me go\nWill not let you go - let me go (never)\nNever let you go - let me go\nNever let me go - ooo\nNo, no, no, no, no, no, no -\nOh mama mia, mama mia, mama mia let me go\nBeelzebub has a devil put aside for me\nfor me\nfor me\n\nSo you think you can stone me and spit in my eye\nSo you think you can love me and leave me to die\nOh baby - can't do this to me baby\nJust gotta get out - just gotta get right outta here\n\nOoh yeah, ooh yeah\nNothing really matters\nAnyone can see\nNothing really matters - nothing really matters to me\n\nAnyway the wind blows...\n\nWelcome to the official Queen channel. Subscribe today for exclusive Queen videos, including live shows, interviews, music videos & much more.\n\nSee the best of Freddie Mercury, Brian May & Roger Taylor right here on YouTube.\n\nFollow us on Twitter: https://twitter.com/queenwillrock\nGive us a like on Facebook: https://www.facebook.com/Queen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fJ9rUzIMcZQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fJ9rUzIMcZQ",
+        "videoPublishedAt": "2008-08-01T11:06:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/QjTV1qEkGYimoWIXQfJKdnpU878\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:28:26.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Queen & David Bowie - Under Pressure (Classic Queen Mix)",
+        "description": "More Queen on DVD: http://adf.ly/aGNvM\n\n\"This remix is very close to the final album version. The bass lines seem to be a bit more prominent in the mix and the overall sound is a little less muddy. Freddie singing \"that's okay!\" has been removed right before Bowie sings, \"it's the terror of knowing...\" It is unknown who did this remix. It is rumored that this is actually an old mix from around the Hot Space time period\".\nInfo taken from www.QueenVault.com\n\nThis video is a new mix between the Wembley version (12/7/86), the Freddie Mercury Tribute Concert version at the same stadium in 1992, and the now old video made by DoRo for Under Pressure (Rah Mix) in 1999.\n\nhttp://adf.ly/YhsMw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YoDh_gHDvkk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YoDh_gHDvkk",
+        "videoPublishedAt": "2013-03-20T01:56:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/SeBSiAcapYzjVnjkwEvEACYlpIU\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:28:34.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Bon Jovi - It's My Life",
+        "description": "Music video by Bon Jovi performing It's My Life. (C) 2003 The Island Def Jam Music Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vx2u5uUu3DE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vx2u5uUu3DE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "vx2u5uUu3DE",
+        "videoPublishedAt": "2009-06-17T00:55:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/Dj0LUjVFuyIBepSSXbKHqEeT0xA\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:28:42.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Guns N' Roses - Paradise City",
+        "description": "Best of Guns N' Roses: https://goo.gl/8n6FML\nSubscribe here: https://goo.gl/GdJ34z\n\n\nMusic video by Guns N' Roses performing Paradise City. YouTube view counts pre-VEVO: 3,424,935. (C) 1988 Guns N' Roses under exclusive license to Geffen Records",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rbm6GXllBiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rbm6GXllBiw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Rbm6GXllBiw",
+        "videoPublishedAt": "2009-12-25T08:41:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/jZPulVO1j8nigrFY6ArtWLNV9a4\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:28:51.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "The Outfield - Your Love",
+        "description": "The Outfield's official music video for 'Your Love'. Click to listen to The Outfield on Spotify: http://smarturl.it/TOSpot?IQid=TOYL\n\nAs featured on Playing The Field. Click to buy the track or album via iTunes: http://smarturl.it/TOUiTunes?IQid=TOYL\nGoogle Play: http://smarturl.it/TOYLPlay?IQid=TOYL\nAmazon: http://smarturl.it/TOPFAm?IQid=TOYL\n\nMore Great Ultimate Hits Of The Eighties videos here: http://smarturl.it/Ultimate80?IQid=TOYL\n\nMore from The Outfield\nVoices Of Babylon: https://youtu.be/XtcCwl_sUWw\nMy Paradise: https://youtu.be/JG6bA5GJ1hc\nNo Surrender: https://youtu.be/fPUg6wcWhTA\n\nFollow The Outfield\nWebsite: http://www.theoutfield.com/\nFacebook: https://www.facebook.com/The-Outfield-127763673863/timeline/\n\nSubscribe to The Outfield on YouTube: http://smarturl.it/TOUSub?IQid=TOYL\n---------\n\nLyrics:\n\nAs you leave me, please, would you close the door?\nAnd don't forget what I told you\nJust 'cause you're right, that don't mean I'm wrong\nAnother shoulder to cry upon\nI just wanna use your love tonight, yeah\nI don't wanna lose your love tonight\nYeah, I just wanna use your love tonight\nI don't wanna lose your love tonight\nI just wanna use your love tonight\nI don't wanna lose your love tonight",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4N1iwQxiHrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4N1iwQxiHrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4N1iwQxiHrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4N1iwQxiHrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4N1iwQxiHrs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4N1iwQxiHrs",
+        "videoPublishedAt": "2009-10-25T09:16:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/qr-Jc753qnibal2fxXMW4J4USjY\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:29:12.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Foreigner - 'I Want To Know What Love Is' [Official Music Video]",
+        "description": "Music video by Foreigner performing I Want To Know What Love Is.\nBest quality available on YouTube\n\nI do not own this material, I am just showing it to the rest of the world. \n\nLyrics:\n\nI gotta take a little time\nA little time to think things over\nI better read between the lines\nIn case I need it when I'm older\nAaaah woah-ah-aah\n\nNow this mountain I must climb\nFeels like a world upon my shoulders\nAnd through the clouds I see love shine\nIt keeps me warm as life grows colder\n\nIn my life there's been heartache and pain\nI don't know if I can face it again\nCan't stop now, I've traveled so far\nTo change this lonely life\n\nI wanna know what love is\nI want you to show me\nI wanna feel what love is\nI know you can show me\nAaaah woah-oh-ooh\n\nI'm gonna take a little time\nA little time to look around me, oooh ooh-ooh ooh-ooh oooh\nI've got nowhere left to hide\nIt looks like love has finally found me\n\nIn my life there's been heartache and pain\nI don't know if I can face it again\nI can't stop now, I've traveled so far\nTo change this lonely life\n\nI wanna know what love is\nI want you to show me\nI wanna feel what love is\nI know you can show me\nI wanna know what love is\nI want you to show me\nAnd I wanna feel, I want to feel what love is\nAnd I know, I know you can show me\n\nLet's talk about love\n(I wanna know what love is) the love that you feel inside\n(I want you to show me) I'm feeling so much love\n(I wanna feel what love is) no, you just cannot hide\n(I know you can show me) yeah, woah-oh-ooh\nI wanna know what love is, let's talk about love\n(I want you to show me) I wanna feel it too\n(I wanna feel what love is) I wanna feel it too\nAnd I know, and I know, I know you can show me\nShow me what is real, woah (woah), yeah I know\n(I wanna know what love is) hey I wanna know what love\n(I want you to show me), I wanna know, I wanna know, want know\n(I wanna feel what love is), hey I wanna feel, love\nI know you can show me, yeah",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/raNGeq3_DtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/raNGeq3_DtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/raNGeq3_DtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "raNGeq3_DtM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "raNGeq3_DtM",
+        "videoPublishedAt": "2011-03-04T09:20:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/kK7y61tSxUuz3YLA6mnxdJEZGaY\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:29:25.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Billy Joel - Uptown Girl (Official Video)",
+        "description": "In 1983, Billy Joel released his album An Innocent Man, an album that traces Joel's musical history through his teenage years in the late '50s and early '60s. Watch the official music video for 'Uptown Girl', which became a Top 10 hit in the US that year.\n\nhttp://smarturl.it/BJ_DSTFMR_YT?IQid=ytd.bj.ug\nWatch more of Billy Joel's official music videos\n\niTunes: http://smarturl.it/BJ_TEBJ_iTunes?IQid=ytd.bj.ug\nAmazon: http://smarturl.it/BJ_TEBJ_Amzn?IQid=ytd.bj.ug \nSpotify: http://smarturl.it/BillyJoel_Spotify?IQid=ytd.bj.ug\nGoogle Play: http://smarturl.it/BJ_Gplay?IQid=ytd.bj.ug\n\nFacebook: http://smarturl.it/BJ_YD_FB?IQid=ytd.bj.ug\nTwitter: http://smarturl.it/BJ_YD_T?IQid=ytd.bj.ug\nSubscribe: http://smarturl.it/BJ_YD_YT?IQid=ytd.bj.ug\n\nLyrics:\nUptown girl\nShe's been living in her uptown world\nI bet she never had a backstreet guy\nI bet her mama never told her why\n\nI'm gonna try for an uptown girl\nShe's been living in her white bred world\nAs long as anyone with hot blood can\nAnd now she's looking for a downtown man\nThat's what I am\n\nAnd when she knows what\nShe wants from her time\nAnd when she wakes up\nAnd makes up her mind\n\nShe'll see I'm not so tough\nJust because\nI'm in love with an uptown girl\n\nBilly Joel's official YouTube channel features music videos, live performances, interviews, TV appearances and more. Best known for his first hit song, 'Piano Man', in 1973, Billy has written and recorded thirty-three Top 40 hits in the United States. He is a six-time Grammy Award winner, a 23-time Grammy nominee and one of the world's best-selling artists of all time, having sold over 150 million records worldwide. Billy Joel is the sixth-best-selling recording artist and the third-best-selling solo artist in the United States.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCuMWrfXG4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCuMWrfXG4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCuMWrfXG4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hCuMWrfXG4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hCuMWrfXG4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hCuMWrfXG4E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hCuMWrfXG4E",
+        "videoPublishedAt": "2009-10-03T04:44:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/4GJqxYSlPO5g1St-D6Q80Z3mz40\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:29:39.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Van Halen - \"Hot For Teacher\" (Official Music Video)",
+        "description": "Watch the official music video for \"Hot For Teacher\" by Van Halen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6M4_Ommfvv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6M4_Ommfvv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6M4_Ommfvv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6M4_Ommfvv0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6M4_Ommfvv0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6M4_Ommfvv0",
+        "videoPublishedAt": "2015-03-04T15:25:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/7sTyouHPeIjkF_DxZTL6lnOM8qw\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:29:43.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Scorpions - Wind Of Change",
+        "description": "Best of Scorpions: https://goo.gl/dtfDmo\nSubscribe here: https://goo.gl/jQbFpy\n\n\nMusic video by Scorpions performing Wind Of Change. (C) 1991 The Island Def Jam Music Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n4RjJKxsamQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n4RjJKxsamQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "n4RjJKxsamQ",
+        "videoPublishedAt": "2009-11-01T09:42:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/2oJUvgDJEc-OIOrXSiMfK4ytOwc\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:29:51.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Roxette - Listen To Your Heart",
+        "description": "Music video by Roxette performing Listen To Your Heart.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yCC_b5WHLX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yCC_b5WHLX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yCC_b5WHLX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yCC_b5WHLX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yCC_b5WHLX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yCC_b5WHLX0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yCC_b5WHLX0",
+        "videoPublishedAt": "2009-03-04T14:16:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/9f_i6Et-SW5JD8QwUddl2yQ1R5U\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:29:58.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Aerosmith - Crazy",
+        "description": "Listen to more from Aerosmith: https://lnk.to/AeroBestOf\nExplore the incredible history of Aerosmith here: https://www.udiscovermusic.com/artists/aerosmith/\n\nStream a playlist of their biggest tracks: http://playlists.udiscovermusic.com/playlist/aerosmith-best-of\n\nExperience Aerosmith on Vinyl LP:\nhttps://lnk.to/tLBN1\n\nFollow Aerosmith\nhttps://www.facebook.com/aerosmith/\nhttps://twitter.com/Aerosmith\nhttps://www.instagram.com/aerosmith/\nhttp://www.aerosmith.com/\n\nMusic video by Aerosmith performing Crazy. (C) 1994 Geffen Records",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMNgbISmF4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMNgbISmF4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMNgbISmF4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NMNgbISmF4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NMNgbISmF4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NMNgbISmF4I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NMNgbISmF4I",
+        "videoPublishedAt": "2009-12-25T08:26:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/B4ClD5wCKHK9y4YWYyDwad4yk6c\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:30:20.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Earth, Wind & Fire - September",
+        "description": "The Maurice White story is a MUST read for any true fan of the mighty EW&F: http://smarturl.it/MW_MyLifeEWF?IQid=ytd\nClick to subscribe: http://smarturl.it/SubscribeEWFVevo?I...\nListen to Earth, Wind & Fire on Spotify: http://smarturl.it/EWFSpotify?IQid=yt...\n\nAlbum's from Earth, Wind & Fire:\nOpen Our Eyes: Click here to buy:\nAmazon: http://smarturl.it/EWF_OYE_Amzn?IQid=...\nThat's the Way of the World: Click here to buy\niTunes: http://smarturl.it/EWF_WOTW_iTunes?IQ...\nGoogle Play: http://smarturl.it/EWF_WOTW_GP?IQid=y...\nNow, Then & Forever: Click here to buy\niTunes: http://smarturl.it/EWF_NTF_iTunes?IQi...\nGoogle Play: http://smarturl.it/EWF_NTF_GP?IQid=yt...\nGreatest Hits: Click here to buy\niTunes: http://smarturl.it/EWF_GHL_iTunes?IQi...\nGoogle Play: http://smarturl.it/EWF_GHL_GP?IQid=yt...\n\nMore from Earth, Wind & Fire:\nBoogie Wonderland: http://smarturl.it/EWF_BWL?IQid=ytd.e...\nReason: http://smarturl.it/EWF_Reasons?IQid=y...\nSerpentine Fire: http://smarturl.it/EWF_SF?IQid=ytd.ewf.S\n\nFollow Earth, Wind & Fire:\nWebsite: http://www.earthwindandfire.com/\nFacebook: http://smarturl.it/EWF_YD_FB?IQid=ytd...\nTwitter: http://smarturl.it/EWF_YD_T?IQid=ytd....\n\nLyrics:\nDo you remember the 21st night of September?\nLove was changing the minds of pretenders\nWhile chasing the clouds away\n\nOur hearts were ringing\nIn the key that our souls were singing.\nAs we danced in the night,\nRemember how the stars stole the night away\n\nBa de ya, say do you remember\nBa de ya, dancing in September\nBa de ya, never was a cloudy day\n\nBa de ya de ya de ya\nBa de ya de ya de ya\nBa de ya de ya de ya de ya\n     \n\nMusic video by Earth, Wind & Fire performing September. (C) 2012 Sony Music Entertainment\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gs069dndIYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gs069dndIYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gs069dndIYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gs069dndIYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gs069dndIYk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Gs069dndIYk",
+        "videoPublishedAt": "2013-01-12T03:44:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/EDY9jlKbBbaDYZXSmG1Ppk7Z_vU\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:30:26.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Journey - Faithfully (Official Video)",
+        "description": "Journey's official music video for 'Faithfully'. Click to listen to Journey on Spotify: http://smarturl.it/JourneySpot?IQid=JouFaith\n\nAs featured on The Essential Journey. Click to buy the track or album via iTunes: http://smarturl.it/JourneyEssiTunes?IQid=JouFaith\nGoogle Play: http://smarturl.it/JouFaithPlay?IQid=JouFaith\nAmazon: http://smarturl.it/JouEssAmz?IQid=JouFaith\n\nMore from Journey\nAny Way You Want It: https://youtu.be/atxUuldUcfI\nDon't Stop Believin' [Live in Houston]: https://youtu.be/VcjzHMhBtf0\nSeparate Ways (Worlds Apart): https://youtu.be/LatorN4P9aA\n\nMore great classic rock videos here: http://smarturl.it/ClassicRocks?IQid=JouFaith\n\nFollow Journey\nWebsite: http://www.journeymusic.com/\nFacebook: https://www.facebook.com/journey\nTwitter: https://twitter.com/journeyofficial\nInstagram: https://instagram.com/journeymusicofficial/\n\nSubscribe to Journey on YouTube: http://smarturl.it/JourneySub?IQid=JouFaith\n\n---------\n\nLyrics:\n\nHighway run\nInto the midnight sun\nWheels go round and round\nYou're on my mind\nRestless hearts\nSleep alone tonight\nSending all my love\nAlong the wire\n\nFaithfully\nI'm still yours\nI'm forever yours\nEver yours\nFaithfully",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMD8hBsA-RI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMD8hBsA-RI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMD8hBsA-RI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OMD8hBsA-RI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OMD8hBsA-RI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OMD8hBsA-RI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OMD8hBsA-RI",
+        "videoPublishedAt": "2010-02-26T17:24:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/MfMD31SSfzp9VqeJfmx2PvpHwhw\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:30:36.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Rick Springfield - Jessie's Girl",
+        "description": "Rick Springfield's official music video for 'Jessie's Girl'. Click to listen to Rick Springfield on Spotify: http://smarturl.it/RickSSpotify?IQid=RickSJG\n\nAs featured on The Best Of Rick Springfield. Click to buy the track or album via iTunes: http://smarturl.it/BORickSpringfield?IQid=RickSJG\nGoogle Play: http://smarturl.it/JGGPlay?IQid=RickSJG\nAmazon: http://smarturl.it/DTTSGPlay?IQid=RickSJG\n\nMore from Rick Springfield\nDon't Talk To Strangers: https://youtu.be/cp42V938eBA\nLove Somebody: https://youtu.be/JIVYW977GVM\nHuman Touch: https://youtu.be/yo0uTu2uLtI\n\nMore great 80's videos here: http://smarturl.it/Ultimate80?IQid=RickSJG\n\nFollow Rick Springfield\nWebsite: http://rickspringfield.com/#\nFacebook: https://www.facebook.com/rickspringfield\nTwitter: https://twitter.com/rickspringfield\nInstagram: https://instagram.com/rickspringfield/\n\nSubscribe to Rick Springfield on YouTube: http://smarturl.it/RickSSub?IQid=RickSJG\n\n---------\n\nLyrics:\n\nJessie is a friend,\nYeah, I know he's been a good friend of mine\nBut lately something's changed\nIt ain't hard to define\nJessie's got himself a girl and I want to make her mine\n\nAnd she's watching him with those eyes\nAnd she's lovin' him with that body, I just know it!\nAnd he's holding her in his arms late, late at night\n\nYou know I wish that I had Jessie's girl\nI wish that I had Jessie's girl\nWhere can I find a woman like that?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYkbTyHXwbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYkbTyHXwbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYkbTyHXwbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYkbTyHXwbs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qYkbTyHXwbs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qYkbTyHXwbs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qYkbTyHXwbs",
+        "videoPublishedAt": "2010-10-26T10:12:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/DImwqcZzoHNsG06_lTKV2zf57Ww\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:30:45.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Van Halen - Panama",
+        "description": "Watch the official music video for \"Panama\" by Van Halen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fuKDBPw8wQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fuKDBPw8wQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fuKDBPw8wQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fuKDBPw8wQA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fuKDBPw8wQA",
+        "videoPublishedAt": "2010-08-12T22:24:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/en7OXB_7wduNcvEfKNyFjNwlLhs\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:30:55.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "AC/DC - Back In Black (Official Video)",
+        "description": "Strap yourself in for the most thundering AC/DC tracks! Listen to the playlist now: https://ACDC.lnk.to/AreYouReadyYA!bib\n\nBack in Black\nBuy/Listen - https://lnk.to/backinblack!bib\n\nAbout the album:\nBack in Black is the seventh studio album by Australian rock band AC/DC. Produced by Robert John \"Mutt\" Lange, the album was released on 25 July 1980 by Albert Productions and Atlantic Records. Their sixth international release, Back in Black was an unprecedented success: it has sold an estimated 50 million copies worldwide. Its enormous sales figures have made it the second-highest-selling album in history. The band supportedthe album with a yearlong world tour, cementing them among the most popular music acts of the early 1980s.\n\nFollow AC/DC:\nSpotify - https://lnk.to/backinblackSI!bib\nFacebook - https://lnk.to/backinblackFI!bib\nTwitter - https://lnk.to/backinblackTI!bib\nInstagram - https://lnk.to/backinblackII!bib\nWebsite - https://lnk.to/backinblackWI!bib",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pAgnJDJN4VA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pAgnJDJN4VA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pAgnJDJN4VA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pAgnJDJN4VA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pAgnJDJN4VA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pAgnJDJN4VA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pAgnJDJN4VA",
+        "videoPublishedAt": "2012-11-07T15:13:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/-jIxau38gkHjGsJ2xD1HxyvqaOI\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:31:03.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Queen - Don't Stop Me Now (Official Video)",
+        "description": "Subscribe to the Official Queen Channel Here http://bit.ly/Subscribe2Queen\n\nTaken from Jazz, 1978.\n\nQueen - 'Don't Stop Me Now'\n\nClick here to buy the DVD with this video at the Official Queen Store:\nhttp://www.queenonlinestore.com\n\nThe official 'Don't Stop Me Now' music video. Taken from 'Greatest Video Hits 1'.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HgzGwKwLmgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HgzGwKwLmgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HgzGwKwLmgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HgzGwKwLmgM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HgzGwKwLmgM",
+        "videoPublishedAt": "2008-08-01T12:05:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/yPXeSJvofY9HwfvSWhUEZYUzEhs\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:31:10.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Queen - Somebody To Love (Official Video)",
+        "description": "Subscribe to the Official Queen Channel Here http://bit.ly/Subscribe2Queen\n\nTaken from A Day At The Races, 1976 and Forever, 2014.\n\nQueen- Somebody To Love (promo video, 1976)\n\nClick here to buy the DVD with this video at the Official Queen Store:\nhttp://www.queenonlinestore.com\n\nTaken from the 2002 'Greatest Video Hits 1' DVD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kijpcUv-b8M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kijpcUv-b8M",
+        "videoPublishedAt": "2013-08-07T12:43:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/WoqOlUDmMHWvQ-Z3e9lfffXP-BE\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:31:26.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Kool & The Gang - Get Down On It",
+        "description": "Music video by Kool & The Gang performing Get Down On It. (C) 1981 The Island Def Jam Music Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qchPLaiKocI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qchPLaiKocI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qchPLaiKocI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qchPLaiKocI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qchPLaiKocI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qchPLaiKocI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qchPLaiKocI",
+        "videoPublishedAt": "2009-10-05T12:50:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/pBlWN-P7pQ2RyomX6yHgSGH3Pu4\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:31:34.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Bee Gees - Stayin' Alive (1977)",
+        "description": "Join Bee Gees on Facebook http://facebook.com/beegees & Twitter http://twitter.com/beegeesofficial\n\nSTAYIN' ALIVE\nWell, you can tell by the way I use my walk\nI'm a woman's man, no time to talk\nMusic loud and women warm, \nI've been kicked around since I was born\n\nAnd now it's all right, it's OK\nAnd you may look the other way\nWe can try to understand \nThe New York times effect on man\n\nWhether you're a brother or whether you're a mother\nYou're stayin' alive, stayin' alive\nFeel the city breaking and everybody shaking\nAnd were stayin' alive, stayin' alive\nAh, ha, ha, ha, stayin' alive, stayin' alive\nAh, ha, ha, ha, stayin' alive\n\nWell now, I get low and I get high\nAnd if I can't get either, I really try\nGot the wings of heaven on my shoes\nI'm a dancing man and I just can't lose\nYou know it's all right, it's ok\nI'll live to see another day\nWe can try to understand \nThe New York times effect on man\n\nWhether you're a brother or whether you're a mother\nYou're stayin' alive, stayin' alive\nFeel the city breakin and everybody shakin\nAnd were stayin' alive, stayin' alive\nAh, ha, ha, ha, stayin' alive, stayin' alive\nAh, ha, ha, ha, stayin' alive\n\nLife going nowhere, somebody help me\nSomebody help me, yeah\nLife going nowhere, somebody help me\nSomebody help me, yeah. \nStayin' alive\n\n\nFrom the album 'THE ULTIMATE BEE GEES'\n\nBUY THE DELUXE DOUBLE CD & DVD SET\nAmazon USA http://amzn.to/1brkEjR\nAmazon Canada http://amzn.to/13m2yuv\nAmazon UK http://amzn.to/1aT2W9B\nAmazon France http://amzn.to/1auhjNU\nAmazon Germany http://amzn.to/12yro7t\nAmazon Italy http://amzn.to/12XkhoT\nAmazon Spain http://amzn.to/12NLidu\nAmazon Japan http://amzn.to/194AqQW\n \nBUY THE DOUBLE CD  \nAmazon USA http://amzn.to/1brikth\nAmazon Canada http://amzn.to/13m1yqh\nAmazon UK http://amzn.to/11ZpOAr\nAmazon France http://amzn.to/194C3hv\nAmazon Germany http://amzn.to/13zPNZf\nAmazon Italy http://amzn.to/13Qm59C\nAmazon Spain http://amzn.to/12JOv2f\nAmazon Japan http://amzn.to/194AqQW\n\nDOWNLOAD THE ALBUM\niTunes https://itunes.apple.com/album/the-ultimate-bee-gees/id336671732\nAmazon USA http://amzn.to/15oILcH\nAmazon UK http://amzn.to/17ngCEb\nAmazon France http://amzn.to/15K92lE\nAmazon Italy http://amzn.to/18pBX4E\nAmazon Germany http://amzn.to/18mu506\nAmazon Spain http://amzn.to/12XiWOL\nAmazon Japan http://amzn.to/13zLJrN\n\nLISTEN ONLINE \nDeezer http://www.deezer.com/en/album/422914\nGrooveshark http://grooveshark.com/#!/album/The+Ultimate+Bee+Gees/4657434\nLast.FM http://www.last.fm/music/Bee+Gees/The+Ultimate+Bee+Gees\nMySpace https://myspace.com/beegees/music/album/the-ultimate-bee-gees-14023661\nRdio http://www.rdio.com/artist/Bee_Gees/album/The_Ultimate_Bee_Gees/\nRhapsody http://www.rhapsody.com/artist/bee-gees/album/the-ultimate-bee-gees\nSlacker http://slacker.com/r/lLHTB\nSpotify http://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9\n\n© & ℗ Barry Gibb, The Estate of Robin Gibb and The Estate of Maurice Gibb, under exclusive license to Warner Strategic Marketing Inc., a Warner Music Group Company",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_izvAbhExY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_izvAbhExY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_izvAbhExY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I_izvAbhExY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I_izvAbhExY",
+        "videoPublishedAt": "2009-10-27T01:32:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"LPgn2T8OGFAujqO6WH4NA4hxJKQ/TQ7RRVn7ZukstnetIjbMthzOUlk\"",
+      "id": "UExMTlRvTlBpNDBFZ2NYSmpucm1BdEZXRUlBV2Z0WkdXci5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2018-04-05T00:31:42.000Z",
+        "channelId": "UCFgu2wsUsLKtCac01Wy3qFA",
+        "title": "Prince - Purple Rain (Official Video)",
+        "description": "I do not own this video nor do I claim anything off it therefore I couldn't find the official video anywhere so here it is! Been listening to this song over the past couple of days and the day I wanted to see him live... He died... Absolute legend, one of the greatest artist to have ever lived and will always be remembered for his craft, his music, his talent and his legacy... Thank you Prince may you R.I.P",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TvnYmWpD_T8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TvnYmWpD_T8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TvnYmWpD_T8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TvnYmWpD_T8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TvnYmWpD_T8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chris Studios",
+        "playlistId": "PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TvnYmWpD_T8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TvnYmWpD_T8",
+        "videoPublishedAt": "2016-04-22T16:26:04.000Z"
+      }
+    }
+  ]
+}
