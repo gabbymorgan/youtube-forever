@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div>
       <div className='Container'>
-        <iframe title="video" className='Video'
+        <iframe title="video" id='Video'
         src="https://www.youtube.com/embed/videoseries?list=PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr&autoplay=1&controls=0&loop=1&rel=0&showinfo=0&autohide=1&wmode=transparent&hd=1">
         </iframe>
       </div>
