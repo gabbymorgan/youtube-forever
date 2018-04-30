@@ -6,6 +6,18 @@
   frameborder: 0; height:100%; width: 140vw; margin-left: -20vw;
 }
 
-.Sidebar {
-  
+.Header {
+  height: 10vh;
+  background: gray;
 }
+
+.Header__Img {
+  opacity: .3;
+}
+
+.Footer {
+  margin-top: 80vh;
+  height: 0vh;
+  background: gray;
+}
+
