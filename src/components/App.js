@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-// import axios from 'axios';
-const data = require('../songs.json')
+const data = require('../songs.json'); //this json file contains the information for each song
 
 
 class App extends Component {
@@ -9,18 +8,23 @@ class App extends Component {
     songs: [
       {}
     ],
-    current: {}
+    current: {},
   };
 
   componentDidMount() {
+    //populate array of song titles and video ids to state
     const songs = data.items.map(item => {
       return {
         title: item.snippet.title,
-        id: item.contentDetails.videoId
+        id: item.contentDetails.videoId,
       };
     });
+    this.setState({
+      songs,
+      current: songs[Math.floor(Math.random() * songs.length)],
+    })
   }
-
+  //next click handler
   clickNext() {
     this.setState({
       current: this.state.songs[Math.floor(Math.random() * this.state.songs.length)]
