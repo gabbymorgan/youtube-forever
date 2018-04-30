@@ -1,15 +1,17 @@
 .Container {
   position: fixed; 
   z-index: -99; 
-  width: 100%; 
-  height: 150vh; 
+  height: 100vh; 
   overflow-x: unset;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
 }
 
 #Video {
-  height:100%; 
-  width: 1800px; 
-  margin-left: -300px;
+  height:150%; 
+  width: 100vw; 
 }
 
 .Header {
@@ -37,17 +39,24 @@
   width: 100vw;
 }
 
+.Social {
+  width: 7%;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
 #fb {
   height: 2rem;
-  margin: 2px 0 0 0;
+  margin: 5px 0 0 0;
 }
 
 #twitter {
   height: 2.1rem;
-  margin: 2px 0 0 0;
+  margin: 4px 1px 0 0;
 }
 
 #ig {
   height: 1.7rem;
-  margin: 2px 0 0 1.2px;
+  margin: .49rem 0 0 1.2px;
 }

@@ -14,9 +14,11 @@ class App extends Component {
         </iframe>
       </div>
         <footer className="Footer">
-          <a href='https://www.facebook.com/Tubular-Music-2094381257512633/'><img src={require('../fb.png')} id="fb"/></a>
-          <a href='https://twitter.com/TubularMusic'><img src={require('../twitter.png')} id="twitter"/></a>
-          <a href='https://www.instagram.com/tubular80s/'><img src={require('../ig.png')} id="ig"/></a>
+          <div className="Social">
+            <a href='https://www.facebook.com/Tubular-Music-2094381257512633/'><img src={require('../fb.png')} id="fb"/></a>
+            <a href='https://twitter.com/TubularMusic'><img src={require('../twitter.png')} id="twitter"/></a>
+            <a href='https://www.instagram.com/tubular80s/'><img src={require('../ig.png')} id="ig"/></a>
+          </div>
         </footer>
       </div>
     );
