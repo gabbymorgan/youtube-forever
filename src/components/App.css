@@ -15,17 +15,15 @@
 }
 
 .Header {
-  height: 6vh;
+  height: 2.6rem;
   background: rgb(185, 28, 172);
 }
 
 .Header__Img {
-  opacity: .4;
   width: 10%;
   position: absolute;
-  right: 0;
   top: 0;
-  margin: 3rem 1% 0 0;
+  margin: -.8rem 0 0 45%;
 }
 
 .Footer {
@@ -33,7 +31,7 @@
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  height: 5vh;
+  height: 2rem;
   background:  rgb(185, 28, 172);
   position: fixed;
   bottom: 0;
@@ -66,5 +64,21 @@
   position: absolute;
   top: 0;
   left: 0;
-  margin-left: .5%
+  margin: 3rem 0 0 1%;
+  color: white;
+  opacity: .4;
+}
+
+#Next {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: black;
+  opacity: .4;
+  margin: .8rem 5% 0 0;
+}
+
+#Next:hover {
+  cursor: pointer;
+  opacity: 1;
 }

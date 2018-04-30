@@ -13,31 +13,20 @@ class App extends Component {
   };
 
   componentDidMount() {
-    // axios
-    //   .get('/youtube/v3/playlistItems', {
-    //     'maxResults': '50',
-    //     'part': 'snippet,contentDetails',
-    //     'playlistId': 'PLLNToNPi40EgcXJjnrmAtFWEIAWftZGWr'
-    //   }).then(response => {
-    //     const songs = response.data.map(song => {
-    //       return song.resourseId.songId;
-    //     });
-    //     this.setState({
-    //       songs,
-    //     })
-    //   }).catch(err => console.log(err));
     const songs = data.items.map(item => {
       return {
         title: item.snippet.title,
         id: item.contentDetails.videoId
       };
     });
+  }
 
+  clickNext() {
     this.setState({
-      songs,
-      current: songs[Math.floor(Math.random() * songs.length)]
+      current: this.state.songs[Math.floor(Math.random() * this.state.songs.length)]
     })
   }
+
 
   render() {
     return (
@@ -57,7 +46,8 @@ class App extends Component {
             <a href='https://twitter.com/TubularMusic'><img src={require('../twitter.png')} id="twitter"/></a>
             <a href='https://www.instagram.com/tubular80s/'><img src={require('../ig.png')} id="ig"/></a>
           </div>
-        </footer>
+        </footer>          
+        <a id="Next" onClick={() => this.clickNext()}>next</a>
       </div>
     );
   }
