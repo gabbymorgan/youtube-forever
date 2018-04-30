@@ -2,16 +2,18 @@
   position: fixed; 
   z-index: -99; 
   width: 100%; 
-  height: 135vh; 
+  height: 150vh; 
   overflow-x: unset;
 }
 
 #Video {
-  frameborder: 0; height:100%; width: 140vw; margin-left: -20vw;
+  height:100%; 
+  width: 1800px; 
+  margin-left: -300px;
 }
 
 .Header {
-  height: 5vh;
+  height: 6vh;
   background: rgb(185, 28, 172);
 }
 
@@ -24,10 +26,28 @@
 }
 
 .Footer {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
   height: 5vh;
   background:  rgb(185, 28, 172);
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100vw;
 }
 
+#fb {
+  height: 2rem;
+  margin: 2px 0 0 0;
+}
+
+#twitter {
+  height: 2.1rem;
+  margin: 2px 0 0 0;
+}
+
+#ig {
+  height: 1.7rem;
+  margin: 2px 0 0 1.2px;
+}
