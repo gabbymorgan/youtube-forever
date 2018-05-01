@@ -20,10 +20,11 @@
 }
 
 .Header__Img {
+  opacity: .4;
   width: 120px;
   position: absolute;
   top: 0;
-  margin: -.8rem 0 0 45%;
+  margin: 1.8rem 0 0 45%;
 }
 
 .Footer {
@@ -61,6 +62,7 @@
 }
 
 #Song-title {
+  font-size: 1.1rem;
   position: absolute;
   top: 0;
   left: 0;
@@ -70,6 +72,7 @@
 }
 
 #Next {
+  font-size: 1.2em;
   position: absolute;
   top: 0;
   right: 0;
