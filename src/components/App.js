@@ -23,7 +23,10 @@ class App extends Component {
       songs,
       current: songs[Math.floor(Math.random() * songs.length)],
     })
+    const iframe = document.getElementById('Video');
+    const video = iframe
   }
+
   //next click handler
   clickNext() {
     this.setState({
@@ -51,7 +54,7 @@ class App extends Component {
             <a href='https://www.instagram.com/tubular80s/'><img src={require('../ig.png')} id="ig"/></a>
           </div>
         </footer>          
-        <a id="Next" onClick={() => this.clickNext()}>next</a>
+        <h2 id="Next" onClick={() => this.clickNext()}>Next</h2>
       </div>
     );
   }
