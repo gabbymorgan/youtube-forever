@@ -20,7 +20,7 @@
 }
 
 .Header__Img {
-  width: 10%;
+  width: 120px;
   position: absolute;
   top: 0;
   margin: -.8rem 0 0 45%;
@@ -81,4 +81,15 @@
 #Next:hover {
   cursor: pointer;
   opacity: 1;
+}
+
+@media (max-width:1000px) {
+  .Container {
+    height: 900px;
+  }
+  #Video {
+    width: 1300px;
+    height: 1200px;
+    margin-left: -30vw;
+  }
 }
