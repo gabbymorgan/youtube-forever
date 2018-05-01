@@ -20,11 +20,10 @@
 }
 
 .Header__Img {
-  opacity: .4;
-  width: 120px;
+  width: 200px;
   position: absolute;
   top: 0;
-  margin: 1.8rem 0 0 45%;
+  margin: -1.2rem 0 0 42%;
 }
 
 .Footer {

@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+
+import Youtube from './Youtube';
 import './App.css';
 const data = require('../songs.json'); //this json file contains the information for each song
 
@@ -19,12 +21,11 @@ class App extends Component {
         id: item.contentDetails.videoId,
       };
     });
+
     this.setState({
       songs,
       current: songs[Math.floor(Math.random() * songs.length)],
-    })
-    const iframe = document.getElementById('Video');
-    const video = iframe
+    });
   }
 
   //next click handler
@@ -42,11 +43,7 @@ class App extends Component {
         </header>          
         <h2 id="Song-title">{this.state.current.title}</h2>
         <img src={require("../logo.png")} className="Header__Img"/>
-        <div className='Container'>
-          <iframe title="video" id='Video'
-          src={`https://www.youtube.com/embed/${this.state.current.id}?autoplay=1&controls=1&loop=1&rel=0&showinfo=0&autohide=1&wmode=transparent&hd=1`}>
-          </iframe>
-        </div>
+        <Youtube id={this.state.current.id} next={this.clickNext.bind(this)}/>
         <footer className="Footer">
           <div className="Social">
             <a href='https://www.facebook.com/Tubular-Music-2094381257512633/'><img src={require('../fb.png')} id="fb"/></a>
