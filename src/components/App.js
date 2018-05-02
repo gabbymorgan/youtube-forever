@@ -39,8 +39,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <header className="Header">        <img src={require("../logo.png")} className="Header__Img"/>
-
+        <header className="Header">        
+        <img src={require("../logo.png")} className="Header__Img"/>
         </header>          
         <h2 id="Song-title">{this.state.current.title}</h2>
         <Youtube id={this.state.current.id} next={this.clickNext.bind(this)}/>

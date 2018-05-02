@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import API from '../api';
-import Youtube from 'react-youtube';
+import Youtube from '@u-wave/react-youtube';
 
 class Video extends Component {
   state = {
@@ -16,9 +16,10 @@ class Video extends Component {
         className = 'Video'
         height = '720'
         width = '1280'
-        videoId = {this.props.id}
+        video = {this.props.id}
         onReady = {this.onReady.bind(this)}
         onEnd = {() => this.props.next()}
+        autoPlay
         />
       </div>
         <img className="Controls" id="Up" src={require('../up.png')} onClick={this.volumeUp.bind(this)}/>
@@ -44,10 +45,12 @@ class Video extends Component {
   }
 
   onReady(event) {
+    console.log(event);
+    event.target.playVideo();
     event.target.setVolume('40');
     // access to player in all event handlers via event.target
     this.setState({
-      video: event.target
+      video: event
     });
   }
 }
