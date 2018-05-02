@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import API from '../api';
 import Youtube from '@u-wave/react-youtube';
 
 class Video extends Component {
   state = {
-    volume: 75,
+    volume: .6,
     video: {}
   }
 
@@ -16,8 +15,8 @@ class Video extends Component {
         className = 'Video'
         height = '720'
         width = '1280'
+        volume = {this.state.volume}
         video = {this.props.id}
-        onReady = {this.onReady.bind(this)}
         onEnd = {() => this.props.next()}
         autoPlay
         />
@@ -29,28 +28,16 @@ class Video extends Component {
   }
 
   volumeUp() {
-    const newVol = this.state.volume + 5;
+    const newVol = Number(this.state.volume) + .2;
     this.setState({
-      volume: newVol,
+      volume: newVol.toString(),
     });
-    this.state.video.setVolume(this.state.volume.toString());
   }
 
   volumeDown() {
-    const newVol = this.state.volume - 5;
+    const newVol = Number(this.state.volume) - .2;
     this.setState({
-      volume: newVol,
-    });
-    this.state.video.setVolume(this.state.volume.toString());
-  }
-
-  onReady(event) {
-    console.log(event);
-    event.target.playVideo();
-    event.target.setVolume('40');
-    // access to player in all event handlers via event.target
-    this.setState({
-      video: event
+      volume: newVol.toString(),
     });
   }
 }
