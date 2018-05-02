@@ -99,12 +99,12 @@
 
 #Up {
   width: 100px;
-  margin-top: 5rem;
+  margin-top: 70vh;
 }
 
 #Down {
   width: 100px;
-  margin-top: 8rem;
+  margin-top: 80vh;
 }
 
 @media (max-width:1000px) {
