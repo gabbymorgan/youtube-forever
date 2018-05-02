@@ -39,10 +39,10 @@ class App extends Component {
   render() {
     return (
       <div>
-        <header className="Header">
+        <header className="Header">        <img src={require("../logo.png")} className="Header__Img"/>
+
         </header>          
         <h2 id="Song-title">{this.state.current.title}</h2>
-        <img src={require("../logo.png")} className="Header__Img"/>
         <Youtube id={this.state.current.id} next={this.clickNext.bind(this)}/>
         <footer className="Footer">
           <div className="Social">
@@ -51,7 +51,7 @@ class App extends Component {
             <a href='https://www.instagram.com/tubular80s/'><img src={require('../ig.png')} id="ig"/></a>
           </div>
         </footer>          
-        <h2 id="Next" onClick={() => this.clickNext()}>Next</h2>
+        <img src={require('../next.png')} className="Controls" id="Next" onClick={() => this.clickNext()}/>
       </div>
     );
   }
