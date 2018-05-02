@@ -26,7 +26,7 @@
 .Header__Img {
   width: 200px;
   height: 100px;
-  margin: -10px 0 0 30px;
+  margin: -10px 0 0 0;
 }
 
 .Footer {
