@@ -12,11 +12,13 @@
 .Video {
   height:160vh; 
   width: 120vw;
-  margin: 0 0 0 -10%;
+  margin: 0 0 0 -15%;
 }
 
 .Header {
+  width: 100%;
   display: flex;
+  position: fixed;
   flex-flow: row;
   justify-content: center;
   height: 2.6rem;
@@ -74,7 +76,7 @@
 }
 
 .Controls {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   opacity: .4;
